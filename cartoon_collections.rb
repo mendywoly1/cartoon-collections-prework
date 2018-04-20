@@ -7,9 +7,8 @@ end
 
 def summon_captain_planet(array)
   array.collect do |val|
-    val.capitalize + ! 
+    val.capitalize + "!" 
   end
-  # Your code here
 end
 
 def long_planeteer_calls# code an argument here
